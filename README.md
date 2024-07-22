@@ -10,4 +10,4 @@ with your contract address(deployed Tweeter.sol).
 |
 |
 </pre>
-Learnd and got source from here: https://www.youtube.com/watch?v=AYpftDFiIgk&t=1570s
+Learned and got source from here: https://www.youtube.com/watch?v=AYpftDFiIgk&t=1570s
